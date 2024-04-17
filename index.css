@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.section{
+  background-color: orange;
+  align-items: center;
+  align-content: center;
+width:1300px;
+height:550px;
+color:white;
+text-align: center;
+border-radius :20px;
+font-size:25px;
+
+}
+.section .input{
+  height:50px;
+  width:50%;
+  font-size:25px;
+  
+
+}
+.section .input-content
+{
+  height:300px;
+
+  font-weight: bold;
+
+  width:80%;
+}
+.add-btn{
+  background:linear-gradient(170deg,rgb(112, 112, 238),rgb(68, 68, 124));
+  border-radius:5px;
+  width:100px;
+  color:white;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+.blogs2{
+ max-width: 60%;
+ background-color: rgb(192,237,236);
+ color:black;
+ font-weight: lighter;
+ margin:auto;
+ margin:1px solid black;
+ border-radius:4px;
+ padding-left:10px;
+ display:block;
+ margin-bottom:10px;
+  
+}
+.btn-remove{
+  width:200px;
+  height:60px;
+
+
+}
+.btn-remove .btn{
+  background-color: rgb(241, 20, 12);
+  color:white;
+  font-size:25px;
+  align-content: end;
+  border-radius:5px;
+  align-items: end;
+  text-align: center;
+
+  
+}
+.form{
+  justify-content: center;
+  align-content: center;
+ align-items: center;
+}
